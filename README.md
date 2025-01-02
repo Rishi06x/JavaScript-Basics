@@ -1,6 +1,6 @@
 # JavaScript Basics
 
-This repository is a personal collection of notes, examples, and exercises as I learn the fundamentals of JavaScript. It's designed to help me track my progress, practice coding, and reference important concepts.
+This repository is a personal collection of notes, examples, and exercises as I learn the fundamentals of JavaScript. It's designed to help me practice coding, and reference important concepts.
 
 ---
 
@@ -21,25 +21,6 @@ The repo is organized into folders based on key JavaScript concepts:
    - Conditional statements (`if`, `else`, `switch`)
    - Loops (`for`, `while`, `do...while`)
 
-4. **Functions**  
-   - Function declarations and expressions
-   - Arrow functions
-   - Parameters and return values
-
-5. **Arrays and Objects**  
-   - Array operations and methods
-   - Object properties and methods
-
-6. **DOM Manipulation**  
-   - Selecting elements
-   - Modifying content and styles
-   - Event listeners
-
-7. **ES6+ Features**  
-   - Template literals
-   - Destructuring
-   - Spread/rest operators
-
 ---
 
 ## 🛠️ How I Use This Repo
@@ -54,5 +35,5 @@ The repo is organized into folders based on key JavaScript concepts:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/javascript-basics.git
-   cd javascript-basics
+   git clone https://github.com/Rishi06x/Javascript-basics.git
+   cd Javascript-basics
