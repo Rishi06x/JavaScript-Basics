@@ -1,14 +1,16 @@
-//Var
-var x = "Javascript"; //var can be updated and re-declared
-var x = "Java"
-console.log(x);
+// Using var
+// It can be can be re-declared and re-assigned.
+var name = "Hello";
+var name = "World";
+console.log(name); // Output: World
 
-//let 
-let y = "Hello world"; //let can be updated but not re-declared
-y = 'Welcome';
-console.log(y);
+// Using let
+// It can be can be re-assigned but not re-declared 
+let age = 30;
+age = 18;
+console.log(age); // Output: 18
 
-//const
-const z = "Apple"; //const cannot be updated and re-declared
-// z = "Banana"; Uncaught TypeError: Assignment to constant variable.
-console.log(z);
+// Using const
+// It cannot be re-declared and re-assigned
+const country = "India";
+console.log(country); // Output: India

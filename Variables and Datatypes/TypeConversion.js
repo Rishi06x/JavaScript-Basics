@@ -1,19 +1,29 @@
-let name = "123";
-let num = Number(name);
-console.log(num); //output : 123
-console.log(typeof num); //output : number
+let str1 = "123";
+let num1 = Number(str1);
+console.log(num1); // Output: 123
+console.log(typeof num1); // Output: number
 
-let age = 25;
-let str = String(age);
-console.log(str); //output : "25"
-console.log(typeof str); //output : String
+let num2 = 123;
+let str2 = String(num2);
+console.log(str2); // Output: "123"
+console.log(typeof str2); // Output: string
 
-let bool = true;
-let number = Number(bool);
-console.log(number); //output : 1
-console.log(typeof number); //output : number
+let str3 = "hello";
+let bool1 = Boolean(str3);
+console.log(bool1); // Output: true
+console.log(typeof bool1); // Output: boolean
 
-let arr = [1, 2, 3];
-let x = String(arr);
-console.log(x); //output : 1,2,3
-console.log(typeof x); //output : string
+let num3 = 0; 
+let bool2 = Boolean(num3);
+console.log(bool2); // Output: false
+console.log(typeof bool2); // Output: boolean
+
+let str4 = "123.45";
+let intNum = parseInt(str4);
+console.log(intNum); // Output: 123
+console.log(typeof intNum); // Output: number
+
+let str5 = "123.45";
+let floatNum = parseFloat(str5);
+console.log(floatNum); // Output: 123.45
+console.log(typeof floatNum); // Output: number
