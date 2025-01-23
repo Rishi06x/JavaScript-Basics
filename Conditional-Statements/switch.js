@@ -27,6 +27,7 @@ switch(day){
         break;
 }
 
+
 /*
 Output:
     Tuesday

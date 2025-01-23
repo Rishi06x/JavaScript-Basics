@@ -8,6 +8,7 @@ if(age <= 12){
     console.log("You are an adult.");
 }
 
+
 /*
 Output:
     You are an adult.
