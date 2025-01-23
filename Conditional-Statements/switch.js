@@ -26,3 +26,8 @@ switch(day){
         console.log('Invalid day');
         break;
 }
+
+/*
+Output:
+    Tuesday
+*/
