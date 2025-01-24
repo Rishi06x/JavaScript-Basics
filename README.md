@@ -13,9 +13,9 @@ This repository is a collection of JavaScript examples that cover the fundamenta
 
 Each topic has its own folder with multiple example files.
 
-/Variables and Datatypes
-/Conditioanal Statements
-/Looping Statements
+/Variables and Datatypes  
+/Conditional Statements  
+/Looping Statements  
 /Funtions
 
 
