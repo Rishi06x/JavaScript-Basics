@@ -1,6 +1,6 @@
 # JavaScript Basics Repository  
 
-This repository is a collection of JavaScript examples that cover the fundamental concepts of the language. It is intended for my personal use
+This repository is a collection of JavaScript examples that cover the fundamental concepts of the language. It is intended for my personal use.
 
 ## 🚀 What's Included?  
 
