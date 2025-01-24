@@ -40,11 +40,10 @@ This repository is for personal learning purposes, but feedback is always welcom
 
 ---
 
-### Thank you for visiting! 🌟
-
 ## Clone this repository:  
    ```bash
    git clone https://github.com/Rishi06x/JavaScript-Basics 
 
+### Thank you for visiting! 🌟
 
 
