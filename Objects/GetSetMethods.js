@@ -37,7 +37,7 @@ class Rectangle {
 }
 
 const rectangle = new Rectangle(2, 5);
-rectangle.height = 10; //Can modify the value
+rectangle.height = 10; //Updating the value
 
 console.log(rectangle.width);
 console.log(rectangle.height);
