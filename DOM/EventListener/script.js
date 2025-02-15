@@ -14,3 +14,30 @@ input.addEventListener("keypress", (event) => { // Get the keys pressed
 })
 
 window.addEventListener("load", () => {alert("Page loaded!");}); //Gives alert message when the page loads
+
+//Double click
+button.addEventListener("dblclick", function () {
+    alert("Button double-clicked!");
+});
+
+// Right Click Event
+button.addEventListener("contextmenu", function (event) {
+    event.preventDefault(); // Prevents default right-click menu
+    alert("Right-click detected on the button!");
+});
+
+// Focus Event
+input.addEventListener("focus", function () {
+    this.style.backgroundColor = "yellow"; // Highlight input when focused
+});
+
+// Blur Event
+input.addEventListener("blur", function () {
+    this.style.backgroundColor = "white"; // Restore background when blurred
+});
+
+// Scroll Event
+window.addEventListener("scroll", function () {
+    console.log("Scrolling detected!");
+});
+   
