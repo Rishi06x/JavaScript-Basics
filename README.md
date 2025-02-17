@@ -17,6 +17,12 @@ Each topic has its own folder with multiple example files.
 /Conditional Statements  
 /Looping Statements  
 /Funtions
+/Arrays
+/Objects
+/DOM
+/Asynchronous
+/Closure
+Error Handling
 
 
 ## ✨ Why I Created This Repo  
