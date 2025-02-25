@@ -25,14 +25,14 @@ Each topic has its own folder with multiple example files.
 /Variables and Datatypes  
 /Conditional Statements  
 /Looping Statements  
-/Funtions 
-/Arrays 
-/Objects 
-/DOM 
-/Asynchronous 
-/Closure 
-Error Handling
-Promises 
+/Functions  
+/Arrays  
+/Objects  
+/DOM  
+/Asynchronous  
+/Closure  
+Error Handling  
+Promises  
 Async-Await
 
 
